@@ -16,7 +16,7 @@ Potential employer's can use this website as a way to view my completed projects
 https://boywondr84.github.io/Professional-Portfolio-take-2/
 
 ## Screenshot
-<img src="./Professional Portfolio - take 2\screenshot.png" />
+<img src=".\assets\images\screenshot.png" />
 
 ## Contribution
 Ryan Kahlbaugh
