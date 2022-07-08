@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+header img {
+    height: 17%;
+    width: 17%;
+    border-radius: 5%;
+}
+
+.container-banner {
+    margin-top: 50px;
+}
+
+.container-banner #musician {
+    font-size: 25px;
+}
+
+.container-banner #web {
+    font-size: 25px;
+}
+
+.container-info {
+    margin-bottom: 40px;
+}
+
+.container-info h2 {
+    width: 20%;
+    /* border-right: 2px solid black; */
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container-info p {
+    font-size: 20px;
+    /* margin-right: 25px; */
+    width: 80%;
+}
+
+.container-info ul {
+    font-size: 17px;
+    /* width: 10%; */
+}
+
+.links {
+    padding-inline-start: 33%;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.links a {
+    padding: 0 40px 0 0;
+}
+
+#contact-info {
+    font-size: 20px;
+    margin-bottom: 24px;
+}
+
+#resume-info {
+    font-size: 20px;
+    margin-bottom: 24px;
+}
