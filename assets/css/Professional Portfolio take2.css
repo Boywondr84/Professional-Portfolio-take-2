@@ -91,3 +91,8 @@ header img {
     font-size: 20px;
     margin-bottom: 24px;
 }
+
+footer p {
+    font-size: medium;
+    margin-left: 15px;
+}
